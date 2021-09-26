@@ -7,12 +7,12 @@
 <p align="center">
   The second iteration of <site_name>.github.io built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com">Github Pages
   </a> </p>
-<p align="center">
+<!-- <p align="center">
   Previous iterations:
   <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
   <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
   <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
+</p> -->
 ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
 ### TL;DR
